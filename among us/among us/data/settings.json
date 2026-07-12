@@ -1,0 +1,34 @@
+{
+  "game": {
+    "language": "es",
+    "fullscreen": false,
+    "width": 1280,
+    "height": 720,
+    "fps": 60
+  },
+
+  "audio": {
+    "masterVolume": 100,
+    "musicVolume": 80,
+    "sfxVolume": 100
+  },
+
+  "controls": {
+    "up": "W",
+    "down": "S",
+    "left": "A",
+    "right": "D",
+    "use": "E",
+    "report": "R",
+    "kill": "Q",
+    "map": "TAB",
+    "settings": "ESC"
+  },
+
+  "player": {
+    "defaultColor": "red",
+    "defaultHat": "none",
+    "defaultPet": "none",
+    "defaultSkin": "default"
+  }
+}

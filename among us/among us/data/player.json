@@ -1,0 +1,10 @@
+{
+  "speed": 2.8,
+  "walkFrames": [
+    "assets/crew/walk_1.png",
+    "assets/crew/walk_2.png",
+    "assets/crew/walk_3.png",
+    "assets/crew/walk_4.png",
+    "assets/crew/walk_5.png"
+  ]
+}

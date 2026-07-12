@@ -1,0 +1,40 @@
+{
+  "pets": [
+    {
+      "id": "none",
+      "name": "Ninguna",
+      "sprite": "",
+      "followPlayer": false
+    },
+    {
+      "id": "mini_crewmate",
+      "name": "Mini Tripulante",
+      "sprite": "assets/pets/mini_crewmate.png",
+      "followPlayer": true
+    },
+    {
+      "id": "dog",
+      "name": "Perro",
+      "sprite": "assets/pets/dog.png",
+      "followPlayer": true
+    },
+    {
+      "id": "robot",
+      "name": "Robot",
+      "sprite": "assets/pets/robot.png",
+      "followPlayer": true
+    },
+    {
+      "id": "ufo",
+      "name": "Ovni",
+      "sprite": "assets/pets/ufo.png",
+      "followPlayer": true
+    },
+    {
+      "id": "hamster",
+      "name": "Hámster",
+      "sprite": "assets/pets/hamster.png",
+      "followPlayer": true
+    }
+  ]
+}

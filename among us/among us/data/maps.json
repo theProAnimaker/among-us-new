@@ -1,0 +1,24 @@
+{
+  "maps": [
+    {
+      "id": "the_skeld",
+      "name": "The Skeld",
+      "image": "assets/maps/the_skeld.png",
+
+      "spawn": {
+        "x": 980,
+        "y": 280
+      },
+
+      "size": {
+        "width": 1536,
+        "height": 864
+      },
+
+      "collision": true,
+      "vents": true,
+      "tasks": true,
+      "meetings": true
+    }
+  ]
+}

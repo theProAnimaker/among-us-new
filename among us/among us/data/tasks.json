@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": "fix_wires",
+      "name": "Arreglar Cables",
+      "room": "Electrical",
+      "type": "common",
+      "completed": false
+    },
+    {
+      "id": "swipe_card",
+      "name": "Pasar Tarjeta",
+      "room": "Admin",
+      "type": "common",
+      "completed": false
+    },
+    {
+      "id": "download_data",
+      "name": "Descargar Datos",
+      "room": "Weapons",
+      "type": "long",
+      "completed": false
+    },
+    {
+      "id": "upload_data",
+      "name": "Subir Datos",
+      "room": "Admin",
+      "type": "long",
+      "completed": false
+    },
+    {
+      "id": "fuel_engines",
+      "name": "Llenar Motores",
+      "room": "Storage",
+      "type": "long",
+      "completed": false
+    },
+    {
+      "id": "align_engine",
+      "name": "Alinear Motor",
+      "room": "Upper Engine",
+      "type": "short",
+      "completed": false
+    },
+    {
+      "id": "empty_garbage",
+      "name": "Vaciar Basura",
+      "room": "Cafeteria",
+      "type": "short",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "default": {
+    "body": "#C51111",
+    "shadow": "#7A0838",
+    "visor": "#9FE7FF"
+  },
+
+  "blue": {
+    "body": "#132FD2",
+    "shadow": "#09158E",
+    "visor": "#9FE7FF"
+  },
+
+  "green": {
+    "body": "#117F2D",
+    "shadow": "#0A4D1A",
+    "visor": "#9FE7FF"
+  },
+
+  "yellow": {
+    "body": "#F5F557",
+    "shadow": "#C2B000",
+    "visor": "#9FE7FF"
+  },
+
+  "black": {
+    "body": "#3F474E",
+    "shadow": "#1E2328",
+    "visor": "#9FE7FF"
+  }
+}
